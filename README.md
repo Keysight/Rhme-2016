@@ -2,11 +2,11 @@
 
 ## Challenge Binaries
 
-You can use the challenge binaries in a normal Arduino Nano or Uno board (atmega328p chip). To upload the challenge to the board, use the following command:
+You can use the challenge binaries on a normal Arduino Nano or Uno board (atmega328p chip). To upload the challenge to the board, use the following command:
 
     avrdude -c arduino -p atmega328p -P /dev/ttyUSB* -b115200 -u -V -U flash:w:CHALLENGE.hex
 
-Please keep in mind that depending on the bootloader that is installed on your board, the baudrate will change. Stock Nano baudrate should be 57600, and stock Uno is 115200. (Thanks [HydraBus]kag for this info.
+Please keep in mind that depending on the bootloader that is installed on your board, the baudrate will change. Stock Nano baudrate should be 57600, and stock Uno is 115200. (Thanks [HydraBus]kag for this info).
 
 ## Old readme
 The second round is coming!
