@@ -9,10 +9,10 @@ You can use the challenge binaries on a normal Arduino Nano or Uno board (atmega
 Please keep in mind that depending on the bootloader that is installed on your board, the baudrate will change. Stock Nano baudrate should be 57600, and stock Uno is 115200. (Thanks [HydraBus]kag for this info).
 
 ## Write-ups
-https://www.balda.ch/posts/2017/Mar/01/rhme2-writeup/
-https://ctf.rip/rhme2-secretsauce/
-https://ctf.rip/rhme2-fridgejit/
-https://github.com/mrmacete/writeups/tree/master/rhme2/fridge-plugin
+* https://www.balda.ch/posts/2017/Mar/01/rhme2-writeup/
+* https://ctf.rip/rhme2-secretsauce/
+* https://ctf.rip/rhme2-fridgejit/
+* https://github.com/mrmacete/writeups/tree/master/rhme2/fridge-plugin
 
 
 ## Old readme
