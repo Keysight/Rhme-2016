@@ -1,0 +1,8 @@
+We have received a portable asymmetric key storage for evaluation
+purposes. This portable device was manufactured by Ebian Corp to
+facilitate secure communications with customers. It generates and
+stores adminstrators' public keys. Customers can use this repository
+to find the public key of the admin they want to contact, and
+administrators can use this repository to update their key
+information. If this fancy keychain passes the test we are going to
+give them away like candy, secure candy.
