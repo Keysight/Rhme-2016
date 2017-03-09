@@ -1,0 +1,3 @@
+We added a simple countermeasure to the previous challenge.
+
+Will you be able to break it?
