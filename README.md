@@ -13,6 +13,10 @@ Please keep in mind that depending on the bootloader that is installed on your b
 * https://ctf.rip/rhme2-secretsauce/
 * https://ctf.rip/rhme2-fridgejit/
 * https://github.com/mrmacete/writeups/tree/master/rhme2/fridge-plugin
+* https://github.com/gijsh/rhme2_writeups
+* https://www.youtube.com/watch?v=6_Z5RcHoykE
+* https://n0wblog.blogspot.nl/2017/03/rhme2-writeups-secure-filesystem.html
+* https://n0wblog.blogspot.nl/2017/03/rhme2-writeups-jumpy.html
 
 
 ## Old readme
