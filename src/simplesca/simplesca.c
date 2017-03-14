@@ -1,5 +1,5 @@
 /* RHme2
- * Side Channel Analsis - Simple SCA
+ * Side Channel Analysis - Piece of SCAke
  */
 
 #include <stdint.h>
