@@ -11,6 +11,7 @@ Please keep in mind that depending on the bootloader that is installed on your b
 ## Write-ups
 * https://github.com/hydrabus/rhme-2016
 * https://www.balda.ch/posts/2017/Mar/01/rhme2-writeup/
+* https://www.youtube.com/playlist?list=PLhixgUqwRTjwNaT40TqIIagv3b4_bfB7M
 * https://ctf.rip/rhme2-secretsauce/
 * https://ctf.rip/rhme2-fridgejit/
 * https://github.com/mrmacete/writeups/tree/master/rhme2/fridge-plugin
