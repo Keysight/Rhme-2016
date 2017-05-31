@@ -19,6 +19,7 @@ Please keep in mind that depending on the bootloader that is installed on your b
 * https://www.youtube.com/watch?v=6_Z5RcHoykE
 * https://n0wblog.blogspot.nl/2017/03/rhme2-writeups-secure-filesystem.html
 * https://n0wblog.blogspot.nl/2017/03/rhme2-writeups-jumpy.html
+* https://firefart.at/post/rhme2_whac_the_mole/
 
 
 ## Old readme
