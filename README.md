@@ -19,7 +19,8 @@ Please keep in mind that depending on the bootloader that is installed on your b
 * https://www.youtube.com/watch?v=6_Z5RcHoykE
 * https://n0wblog.blogspot.nl/2017/03/rhme2-writeups-secure-filesystem.html
 * https://n0wblog.blogspot.nl/2017/03/rhme2-writeups-jumpy.html
-
+* https://github.com/ikizhvatov/jlsca-tutorials
+* https://firefart.at/post/rhme2_whac_the_mole/
 
 ## Old readme
 The second round is coming!
@@ -28,5 +29,4 @@ The RHme2 (Riscure Hack me 2) is our low level hardware CTF challenge that comes
 
 For more information and registration, visit http://rhme.riscure.com
 
-Follow us on twitter at @riscure and #rhme2 for updates. 
-
+Follow us on twitter at @riscure and #rhme2 for updates.
